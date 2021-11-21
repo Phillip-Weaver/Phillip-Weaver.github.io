@@ -116,7 +116,7 @@ body {
 <div class="navbar">
   <a href="#">Projects</a>
   <a href="#">Contact me</a>
-  <a href="timeline.html">Timeline</a>
+  <a href="#">Timeline</a>
   <a href="#">Link</a>
 </div>
 
